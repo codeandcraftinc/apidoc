@@ -34,7 +34,7 @@
     "node": ">= 0.10.0"
   },
   "dependencies": {
-    "apidoc-core": "~0.8.2",
+    "apidoc-core": "github:codeandcraftinc/apidoc-core",
     "fs-extra": "~3.0.1",
     "lodash": "~4.17.4",
     "markdown-it": "^8.3.1",
@@ -42,7 +42,7 @@
     "winston": "~2.3.1"
   },
   "devDependencies": {
-    "apidoc-example": "*",
+    "apidoc-example": "github:codeandcraftinc/apidoc-example",
     "jshint": "^2.9.4",
     "lodash-cli": "^4.17.4",
     "mocha": "~3.4.1",
